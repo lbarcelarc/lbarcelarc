@@ -1,44 +1,70 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7FF&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0A66C2&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=36BCF7FF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Lucas+Barcelar;)](https://git.io/typing-svg)
-
-<br/>
-<br/>
-<br/>
-<br/>
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gacneto&show_icons=true&theme=transparent"/> 
-  <img width="38%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gacneto&layout=compact&hide_border=true&title_color=DC143C&text_color=c9d1d9&bg_color=0d1117" />
-</div>
-<br/>
-<div align="center">  
-<a href="https://www.linkedin.com/in/lucas-barcelar-695197264/" target="_blank" rel="noopener noreferrer""><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto: lbarcelarc@gmail.com?subject=Olá, Lucas Barcelar! Vi seu GitHub" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="lbarcelarc@gmail.com" /></a>
-
-</div>
-<br/>
-
-<h3 align="center" style="font-size:50px">👨‍💻 I work with:</h3>
-
-<br/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0A66C2&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Lucas+Barcelar;Software+Engineer;Backend+Developer)](https://git.io/typing-svg)
 
 <div align="center">
-  
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-  <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-  <img align="center" alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img align="center" alt="Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
-  <img align="center" alt="HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  <img align="center" alt="CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-  
-  <br />
-  <br />
-  
+  <a href="https://www.linkedin.com/in/lucas-barcelar-695197264/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:lbarcelarc@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
 </div>
 
+---
 
+### About Me
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7FF&height=120&section=footer"/>
+I am a **Software Development and Maintenance Intern** with a passion for creating complete and impactful digital solutions. I am actively enhancing my abilities across the entire development stack and am dedicated to growing into a proficient **full-stack developer**.
+
+- 🔭 I’m currently working on **Techno OK - a company specializing in telemetry**
+- 🌱 I’m currently focused on **deepening my knowledge of NestJS for backend development**
+- 📫 You can reach me at: **lbarcelarc@gmail.com**
+
+---
+
+### 💻 My Tech Stack
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="33%">
+      <h4 align="center">Backend</h4>
+      <p align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" alt="Python" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="40" height="40" alt="Django" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40" alt="C" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40" alt="Java" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="40" height="40" alt="Spring Boot" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="40" height="40" alt="NestJS" />
+      </p>
+    </td>
+    <td align="center" width="33%">
+      <h4 align="center">Frontend</h4>
+      <p align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="40" height="40" alt="Angular" />
+      </p>
+    </td>
+    <td align="center" width="33%">
+      <h4 align="center">Databases & Tools</h4>
+      <p align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 My GitHub Stats
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=gacneto&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gacneto&layout=compact&langs_count=8&theme=github_dark&hide_border=true"/>
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0A66C2&height=120&section=footer"/>
