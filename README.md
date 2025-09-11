@@ -63,7 +63,7 @@ I am a **Software Development and Maintenance Intern** with a passion for creati
 ### 📊 My GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=gacneto&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=gacneto&theme=holi&show_icons=true)"/>
   <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gacneto&layout=compact&langs_count=8&theme=github_dark&hide_border=true"/>
 </div>
 
