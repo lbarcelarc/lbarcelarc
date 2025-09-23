@@ -53,6 +53,7 @@ I am a **Software Development and Maintenance Intern** with a passion for creati
       <h4 align="center">Databases & Tools</h4>
       <p align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" alt="PostgreSQL" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />
       </p>
     </td>
