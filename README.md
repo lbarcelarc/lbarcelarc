@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0A66C2&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0A66C2&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Lucas+Barcelar;Software+Engineer;Backend+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0A66C2&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Lucas+Barcelar;Backend+Developer)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="https://www.linkedin.com/in/lucas-barcelar-695197264/" target="_blank" rel="noopener noreferrer">
@@ -13,17 +13,18 @@
 
 ---
 
-### About Me
+### 🚀 About Me
 
-I am a **Software Development and Maintenance Intern** with a passion for creating complete and impactful digital solutions. I am actively enhancing my abilities across the entire development stack and am dedicated to growing into a proficient **full-stack developer**.
+I am a **Backend Developer** passionate about backend architecture and system scalability. Currently, I develop telemetry solutions at **Techno OK**, optimizing data processing and system reliability. I am constantly refining my skills in **NestJS** and **Cloud Computing** to deliver robust full-stack applications.
 
-- 🔭 I’m currently working on **Techno OK - a company specializing in telemetry**
-- 🌱 I’m currently focused on **deepening my knowledge of NestJS for backend development**
-- 📫 You can reach me at: **lbarcelarc@gmail.com**
+* 🔭 Working on: **High-performance Telemetry Systems**
+* 🌱 Learning: **Advanced NestJS Patterns & Microservices**
+* ⚡ Goal: **To build software that impacts real-world efficiency**
+* 📫 Contact: **lbarcelarc@gmail.com**
 
 ---
 
-### 💻 My Tech Stack
+### 🛠️ My Tech Stack
 
 <table align="center" width="100%">
   <tr>
