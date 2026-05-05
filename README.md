@@ -45,14 +45,21 @@ I love exploring different technologies and currently work with a diverse stack,
 
 ---
 
-# ⚡ Activity & Contributions
+## ⚡ GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lbarcelarc&bg_color=transparent&color=00f2fe&line=00f2fe&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+  <!-- Adicionado count_private=true para ler seus commits privados -->
+  <img src="https://github-readme-stats.vercel.app/api?username=lbarcelarc&count_private=true&show_icons=true&theme=transparent&hide_border=true&title_color=00f2fe&icon_color=00f2fe&text_color=8b949e" height="192px" alt="Lucas's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lbarcelarc&layout=compact&theme=transparent&hide_border=true&title_color=00f2fe&icon_color=00f2fe&text_color=8b949e" height="192px" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lbarcelarc&theme=transparent&hide_border=true&ring=00f2fe&fire=00f2fe&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00f2fe&sideLabels=00f2fe&dates=8b949e" alt="GitHub Streak" />
+  <!-- Imagem da Cobrinha que será gerada pela sua GitHub Action (modo dark) -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lbarcelarc/lbarcelarc/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lbarcelarc/lbarcelarc/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lbarcelarc/lbarcelarc/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
